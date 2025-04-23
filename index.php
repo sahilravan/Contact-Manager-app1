@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="https://your-bucket-name.s3.amazonaws.com/style.css">
 </head>
 <body>
+    <img src="assets/logo.png" alt="ContactManager" width="120"><br>
     <h1>Contact Manager</h1>
     <form method="POST" action="add_contact.php">
         Name: <input type="text" name="name" required>
